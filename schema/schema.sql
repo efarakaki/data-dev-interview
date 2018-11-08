@@ -1,0 +1,1 @@
+CREATE DATABASE data-tech-interview;
