@@ -1,6 +1,6 @@
-CREATE DATABASE data-tech-interview;
+CREATE DATABASE data_tech_interview;
 
-CREATE TABLE `films_by_year` (
+CREATE TABLE data_tech_interview.`films_by_year` (
   `year` int(11) NOT NULL,
   `rating` varchar(100) NOT NULL,
   `count` varchar(100) DEFAULT NULL
